@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: http://www.lenstralab.nl/sitemap.txt
