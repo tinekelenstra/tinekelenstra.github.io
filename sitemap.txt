@@ -1,6 +1,6 @@
-http://www.lenstralab.nl/
-http://www.lenstralab.nl/research.html
-http://www.lenstralab.nl/publications.html
-http://www.lenstralab.nl/labmembers.html
-http://www.lenstralab.nl/vacancies.html
-http://www.lenstralab.nl/contact.html
+https://www.lenstralab.nl/
+https://www.lenstralab.nl/research.html
+https://www.lenstralab.nl/publications.html
+https://www.lenstralab.nl/labmembers.html
+https://www.lenstralab.nl/vacancies.html
+https://www.lenstralab.nl/contact.html
