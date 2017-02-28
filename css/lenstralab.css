@@ -20,3 +20,8 @@ p {
     padding-bottom: 10px;
 }
 
+.img-thumbnail {
+    background-color: dimgrey !important;
+    padding: 2px;
+    margin-bottom: 10px;
+}
